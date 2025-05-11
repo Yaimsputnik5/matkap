@@ -32,8 +32,10 @@
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/dark_mode.png" alt="Dark Mode UI" width="400"/>&nbsp;
-  <img src="docs/screenshots/light_mode.png" alt="Light Mode UI" width="400"/>
+  <img src="https://i.imgur.com/PkrTk6K.png" alt="UI" width="400"/>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/gSOHrRQ.png" alt="SettingsUI" width="400"/>
 </p>
 
 ---
